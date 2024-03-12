@@ -1,5 +1,6 @@
 
 // contactpage
+//details
 
 import React, { useState } from "react";
 import { send } from "emailjs-com";
